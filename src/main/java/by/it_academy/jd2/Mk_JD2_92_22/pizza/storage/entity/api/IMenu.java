@@ -1,4 +1,6 @@
-package by.it_academy.jd2.Mk_JD2_92_22.pizza.api;
+package by.it_academy.jd2.Mk_JD2_92_22.pizza.storage.entity.api;
+
+import by.it_academy.jd2.Mk_JD2_92_22.pizza.storage.entity.api.IMenuRow;
 
 import java.util.List;
 

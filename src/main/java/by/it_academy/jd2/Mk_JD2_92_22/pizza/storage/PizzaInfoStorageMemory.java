@@ -13,11 +13,9 @@ public class PizzaInfoStorageMemory implements IPizzaInfoStorage {
     public PizzaInfoStorageMemory() {
     }
 
-
     @Override
     public void save(IPizzaInfo pizzaInfo) {
         this.data.add(pizzaInfo);
-
     }
 
     @Override

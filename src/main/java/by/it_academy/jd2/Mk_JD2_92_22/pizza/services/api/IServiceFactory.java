@@ -6,4 +6,8 @@ public interface IServiceFactory {
 
     IPizzaInfoService getPizzaInfoService();
 
+    IMenuRowService getMenuRowService();
+
+    IMenuService getMenuService();
+
 }
